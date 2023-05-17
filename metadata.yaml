@@ -1,0 +1,33 @@
+_repo: The-boys-in-white-b-The-experience-of-a-hospital-agent-in-and-around-Washington_70450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wheelock, Julia S. (Julia Susan)
+    alias: Freeman, Julia Susan Wheelock
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '55764'
+    url: http://www.gutenberg.org/2009/agents/55764
+    wikipedia: https://en.wikipedia.org/wiki/Julia_Wheelock_Freeman
+description: ''
+gutenberg_issued: '2023-04-03'
+identifiers:
+  gutenberg: '70450'
+  lccn: 02018780
+language: en
+pgterms:marc904: https://archive.org/details/boysinwhite00freerich/page/n9/mode/2up
+pgterms:marc905: 20220912042404freeman
+pgterms:marc906: '1870'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bLange & Hillman, $c1870.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Hospitals'
+- !lcc 'E456'
+- GITenberg
+title: 'The boys in white : $b The experience of a hospital agent in and around Washington'
+url: http://www.gutenberg.org/ebooks/70450
