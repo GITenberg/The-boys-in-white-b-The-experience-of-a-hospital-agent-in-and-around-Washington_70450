@@ -1,5 +1,8 @@
 _repo: The-boys-in-white-b-The-experience-of-a-hospital-agent-in-and-around-Washington_70450
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70450-h/images/cover.jpg
 creator:
   author:
     agent_name: Wheelock, Julia S. (Julia Susan)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55764
     wikipedia: https://en.wikipedia.org/wiki/Julia_Wheelock_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70450#The-boys-in-white-b-The-experience-of-a-hospital-agent-in-and-around-Washington
 gutenberg_issued: '2023-04-03'
 identifiers:
   gutenberg: '70450'
